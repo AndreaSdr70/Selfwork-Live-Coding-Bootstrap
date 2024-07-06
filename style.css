@@ -1,0 +1,13 @@
+/* Personalizzazione Font sulla Pagina */
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+/* Sezione 1  */
+.bg-custom{
+    height: 100vh;
+    background-image: url(./media/bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+
+    }
